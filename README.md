@@ -62,8 +62,7 @@ campus-occupancy-ml/
 ├── dashboard/         # Streamlit UI
 ├── database/          # Snowflake ingestion scripts
 ├── scripts/           # data + training pipeline
-├── models/            # model metadata & versioning
-├── sample_data/       # reproducible demo dataset
+├── models/            # model metadata & versioning   
 ├── README.md
 ├── requirements.txt
 └── .gitignore
