@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment secrets
+.env
+
+# Generated data (dataset recreated via script)
+generated_data/
+
+# EDA outputs (reproducible)
+reports/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
