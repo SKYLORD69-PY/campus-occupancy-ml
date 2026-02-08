@@ -1,7 +1,0 @@
-{
-  "model_name": "Campus Occupancy Predictor",
-  "version": "v1",
-  "description": "Predicts classroom attendance and overcrowding",
-  "algorithms": ["Linear Regression", "Random Forest", "SVM"],
-  "note": "Binary model files are generated locally via scripts/train.py"
-}
